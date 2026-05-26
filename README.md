@@ -1,4 +1,4 @@
-● <div align="center">
+  <div align="center">
     <h2>Hi, I'm Mojtaba 👋</h2>
     <p>CS student · builder · curious about everything</p>
   </div>
